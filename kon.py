@@ -148,7 +148,7 @@ def banner():
 
 
 	ban='''
-d88888D db   d8b   db d88888b db    db 
+JihadAZEIDIN db   d8b   db JIHAD Azeidin db    db 
 YP  d8' 88   I8I   88 88'     `8b  d8' 
    d8'  88   I8I   88 88ooooo  `8bd8'  
   d8'   Y8   I8I   88 88~~~~~  .dPYb.  
@@ -214,7 +214,7 @@ def login_lagi334():
 			exit()
 	elif pil in ['2','02']:
 		try:
-			cik='# LOGIN USING COOKIE V2 '
+			cik='# LOGIN USING JihadAzeidin V2 '
 			cik2=mark(cik ,style='cyan')
 			sol().print(cik2)
 			cookie=input("[•] Cookie : ")
@@ -300,7 +300,7 @@ def menu(my_name,my_id):
 	sg = '# 🖥️SCRIPT USER NAME🖥️ '
 	fx = mark(sg, style=' bold green')
 	sol().print(fx)
-	print(x+'['+h+'✓'+x+'] NAME   ZWEX : '+str(my_name))
+	print(x+'['+h+'✓'+x+'] NAME   jihad : '+str(my_name))
 	print(x+'['+h+'✓'+x+'] USER ID       : '+str(my_id))
 	print(x+'['+h+'✓'+x+'] IP ADDRESS    : '+str(sh['origin']))
 	io = '''[bold green]║01║ DUMP ID FROM PUBLIK	    
